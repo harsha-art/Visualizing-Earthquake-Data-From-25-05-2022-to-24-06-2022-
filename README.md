@@ -4,3 +4,5 @@ that have occurred in the world during the previous month, we
 make a map showing the location of these earthquakes and how significant
 each one was using Plotly’s mapping tool for
 location-based data.
+
+The Data For This Project :- https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
